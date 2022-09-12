@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = "5770104058:AAH7-f2IDq1p4fIXqWPyK9121uvD8Q94Uac"
+TOKEN = ""
 
 
 bot = telebot.TeleBot(TOKEN)
